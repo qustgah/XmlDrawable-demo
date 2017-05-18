@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">XmlDrawable</string>
+    <string name="bitmap_repeat">bitmap_repeat</string>
+    <string name="bitmap_disable">bitmap_disable</string>
+    <string name="bitmap_clamp">bitmap_clamp</string>
+    <string name="bitmap_mirror">bitmap_mirro</string>
+    <string name="bitmap_ninepatch">bitmap_ninepatch</string>
+    <string name="shape_line">line</string>
+    <string name="shape_line_dash">line with dashgap</string>
+    <string name="shape_rect">rectangle</string>
+    <string name="shape_rect_dash">rect_dash</string>
+    <string name="gradient_line">gradient type line</string>
+    <string name="gradient_radial">gradient type radial</string>
+    <string name="gradient_sweep">gradient type seep</string>
+    <string name="layer_list">LayerDrawable</string>
+    <string name="state_list">StateListDrawable</string>
+    <string name="level_list">LevelListDrawable</string>
+    <string name="transition">TransitionDrawable</string>
+    <string name="inset">InsetDrawable</string>
+    <string name="scale">ScaleDrawable</string>
+    <string name="clip">ClipDrawable</string>
+
+
+
+</resources>
